@@ -38,7 +38,7 @@ This game was forked from [GeoGuess Master Web](https://github.com/spider-hand/G
 -   PWA and responsive design
 -   Custom Map (geojson)
 -   History
--   Score
+-   Score 
 
 ## 🚀 Deploy
 
